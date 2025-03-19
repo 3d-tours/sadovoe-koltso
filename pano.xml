@@ -162,7 +162,7 @@
       <min tilt="-90" fov="5" pan="0"/>
       <max tilt="90" fov="120" pan="360"/>
     </view>
-    <userdata description="" longitude="" comment="" tags="New folder" copyright="" source="" author="" datetime="2025:03:19 14:56:25" info="" latitude="" title="Открыть двери"/>
+    <userdata description="" longitude="" comment="" tags="New folder" copyright="" source="" author="" datetime="2025:03:19 14:56:25" info="" latitude="" title="Открыть двери прачечного шкафа"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label textalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" enabled="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" background="1" border="1" bordercolor="0x000000"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -190,7 +190,7 @@
       <min tilt="-90" fov="5" pan="0"/>
       <max tilt="90" fov="120" pan="360"/>
     </view>
-    <userdata description="" longitude="" comment="" tags="New folder" copyright="" source="" author="" datetime="2025:03:19 14:56:37" info="" latitude="" title="Закрыть двери"/>
+    <userdata description="" longitude="" comment="" tags="New folder" copyright="" source="" author="" datetime="2025:03:19 14:56:37" info="" latitude="" title="Закрыть двери прачечного шкафа"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label textalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" enabled="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" background="1" border="1" bordercolor="0x000000"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -341,7 +341,7 @@
       <min tilt="-90" fov="5" pan="0"/>
       <max tilt="90" fov="120" pan="360"/>
     </view>
-    <userdata description="" longitude="" comment="" tags="рендеры" copyright="" source="" author="" datetime="2025:03:19 15:38:42" info="" latitude="" title="Закрыть двери"/>
+    <userdata description="" longitude="" comment="" tags="рендеры" copyright="" source="" author="" datetime="2025:03:19 15:38:42" info="" latitude="" title="Закрыть двери дополнительной рабочей зоны"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label textalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" enabled="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" background="1" border="1" bordercolor="0x000000"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -367,7 +367,7 @@
       <min tilt="-90" fov="5" pan="0"/>
       <max tilt="90" fov="120" pan="360"/>
     </view>
-    <userdata description="" longitude="" comment="" tags="Pano2VR5" copyright="" source="" author="" datetime="" info="" latitude="" title="Открыть двери"/>
+    <userdata description="" longitude="" comment="" tags="Pano2VR5" copyright="" source="" author="" datetime="" info="" latitude="" title="Открыть двери дополнительной рабочей зоны"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label textalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" enabled="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" background="1" border="1" bordercolor="0x000000"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -420,7 +420,7 @@
       <min tilt="-90" fov="5" pan="0"/>
       <max tilt="90" fov="120" pan="360"/>
     </view>
-    <userdata description="" longitude="" comment="" tags="New folder" copyright="" source="" author="" datetime="2025:03:19 22:02:42" info="" latitude="" title="Закрыть двери"/>
+    <userdata description="" longitude="" comment="" tags="New folder" copyright="" source="" author="" datetime="2025:03:19 22:02:42" info="" latitude="" title="Закрыть двери дополнительной рабочей зоны"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label textalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" enabled="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" background="1" border="1" bordercolor="0x000000"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -447,7 +447,7 @@
       <min tilt="-90" fov="5" pan="0"/>
       <max tilt="90" fov="120" pan="360"/>
     </view>
-    <userdata description="" longitude="" comment="" tags="Pano2VR5" copyright="" source="" author="" datetime="2025:03:19 15:13:06" info="" latitude="" title="Открыть двери"/>
+    <userdata description="" longitude="" comment="" tags="Pano2VR5" copyright="" source="" author="" datetime="2025:03:19 15:13:06" info="" latitude="" title="Открыть двери дополнительной рабочей зоны"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label textalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" enabled="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" background="1" border="1" bordercolor="0x000000"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>

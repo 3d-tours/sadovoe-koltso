@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.0.1/15068
 // Filename: ???????0.ggsk
-// Generated Чт мар 20 01:46:05 2025
+// Generated Чт мар 20 02:02:34 2025
 
 function pano2vrSkin(player,base) {
 	var ggSkinVars = [];
@@ -1171,11 +1171,11 @@ function pano2vrSkin(player,base) {
 		this._dropdown_menu.ggType='container';
 		hs ='';
 		hs+='height : 142px;';
-		hs+='left : 10px;';
+		hs+='left : 7px;';
 		hs+='position : absolute;';
-		hs+='top : 12px;';
+		hs+='top : 10px;';
 		hs+='visibility : inherit;';
-		hs+='width : 190px;';
+		hs+='width : 382px;';
 		this._dropdown_menu.setAttribute('style',hs);
 		this._dropdown_menu.style[domTransform + 'Origin']='50% 50%';
 		me._dropdown_menu.ggIsActive=function() {
@@ -1226,7 +1226,7 @@ function pano2vrSkin(player,base) {
 		hs+='position : absolute;';
 		hs+='top : 23px;';
 		hs+='visibility : hidden;';
-		hs+='width : 188px;';
+		hs+='width : 380px;';
 		this._dropdown_background.setAttribute('style',hs);
 		this._dropdown_background.style[domTransform + 'Origin']='50% 50%';
 		me._dropdown_background.ggIsActive=function() {
@@ -1271,7 +1271,7 @@ function pano2vrSkin(player,base) {
 		hs+='position : absolute;';
 		hs+='top : 2px;';
 		hs+='visibility : inherit;';
-		hs+='width : 182px;';
+		hs+='width : 374px;';
 		this._dropdown_scrollarea.setAttribute('style',hs);
 		this._dropdown_scrollarea.style[domTransform + 'Origin']='50% 50%';
 		me._dropdown_scrollarea.ggIsActive=function() {
@@ -1296,7 +1296,7 @@ function pano2vrSkin(player,base) {
 		}
 		this._dropdown_cloner=document.createElement('div');
 		this._dropdown_cloner.ggNumRepeat = 1;
-		this._dropdown_cloner.ggWidth = 170;
+		this._dropdown_cloner.ggWidth = 1149;
 		this._dropdown_cloner.ggHeight = 25;
 		this._dropdown_cloner.ggUpdating = false;
 		this._dropdown_cloner.ggFilter = [];
@@ -1376,7 +1376,7 @@ function pano2vrSkin(player,base) {
 		hs+='position : absolute;';
 		hs+='top : 0px;';
 		hs+='visibility : inherit;';
-		hs+='width : 169px;';
+		hs+='width : 1148px;';
 		this._dropdown_cloner.setAttribute('style',hs);
 		this._dropdown_cloner.style[domTransform + 'Origin']='50% 50%';
 		me._dropdown_cloner.ggIsActive=function() {
@@ -1450,7 +1450,7 @@ function pano2vrSkin(player,base) {
 		hs+='position : absolute;';
 		hs+='top : 0px;';
 		hs+='visibility : inherit;';
-		hs+='width : 188px;';
+		hs+='width : 380px;';
 		this._dropdown_menu_title_background.setAttribute('style',hs);
 		this._dropdown_menu_title_background.style[domTransform + 'Origin']='50% 50%';
 		me._dropdown_menu_title_background.ggIsActive=function() {
@@ -1521,17 +1521,17 @@ function pano2vrSkin(player,base) {
 		this._dropdown_menu_title.ggType='text';
 		hs ='';
 		hs+='height : 18px;';
-		hs+='left : 2px;';
+		hs+='left : 3px;';
 		hs+='position : absolute;';
-		hs+='top : 1px;';
+		hs+='top : 2px;';
 		hs+='visibility : inherit;';
-		hs+='width : 162px;';
+		hs+='width : 354px;';
 		this._dropdown_menu_title.setAttribute('style',hs);
 		this._dropdown_menu_title.style[domTransform + 'Origin']='50% 50%';
 		hs ='position:absolute;';
 		hs+='left: 0px;';
 		hs+='top:  0px;';
-		hs+='width: 162px;';
+		hs+='width: 354px;';
 		hs+='height: 18px;';
 		hs+='border: 0px solid #000000;';
 		hs+='border-radius: 5px;';
@@ -1581,11 +1581,11 @@ function pano2vrSkin(player,base) {
 		this._dropdown_open.ggType='svg';
 		hs ='';
 		hs+='height : 10px;';
-		hs+='left : 170px;';
+		hs+='left : 267px;';
 		hs+='position : absolute;';
 		hs+='top : 5px;';
 		hs+='visibility : inherit;';
-		hs+='width : 10px;';
+		hs+='width : 202px;';
 		this._dropdown_open.setAttribute('style',hs);
 		this._dropdown_open.style[domTransform + 'Origin']='50% 50%';
 		me._dropdown_open.ggIsActive=function() {
@@ -1617,11 +1617,11 @@ function pano2vrSkin(player,base) {
 		this._dropdown_close.ggType='svg';
 		hs ='';
 		hs+='height : 10px;';
-		hs+='left : 170px;';
+		hs+='left : 267px;';
 		hs+='position : absolute;';
 		hs+='top : 5px;';
 		hs+='visibility : hidden;';
-		hs+='width : 10px;';
+		hs+='width : 202px;';
 		this._dropdown_close.setAttribute('style',hs);
 		this._dropdown_close.style[domTransform + 'Origin']='50% 50%';
 		me._dropdown_close.ggIsActive=function() {
@@ -1888,7 +1888,7 @@ function pano2vrSkin(player,base) {
 		this.elementMouseDown=[];
 		this.elementMouseOver=[];
 		this.__div=document.createElement('div');
-		this.__div.setAttribute('style','position: absolute; left: 0px; top: 0px; width: 170px; height: 25px; visibility: inherit;');
+		this.__div.setAttribute('style','position: absolute; left: 0px; top: 0px; width: 1149px; height: 25px; visibility: inherit;');
 		this.__div.ggIsActive = function() {
 			return me.player.getCurrentNode()==me.ggNodeId;
 		}
@@ -1907,26 +1907,27 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='cursor : pointer;';
 		hs+='height : 20px;';
-		hs+='left : 23px;';
+		hs+='left : 26px;';
 		hs+='position : absolute;';
-		hs+='top : 0px;';
+		hs+='top : 2px;';
 		hs+='visibility : inherit;';
-		hs+='width : 148px;';
+		hs+='width : 1111px;';
 		this._dropdown_menu_text.setAttribute('style',hs);
 		this._dropdown_menu_text.style[domTransform + 'Origin']='50% 50%';
 		hs ='position:absolute;';
 		hs+='left: 0px;';
 		hs+='top:  0px;';
-		hs+='width: 148px;';
+		hs+='width: 1111px;';
 		hs+='height: 20px;';
 		hs+='background: #444444;';
 		hs+='background: rgba(68,68,68,0.784314);';
 		hs+='border: 0px solid #848484;';
 		hs+='color: rgba(255,255,255,1);';
-		hs+='text-align: center;';
+		hs+='text-align: left;';
 		hs+='white-space: nowrap;';
 		hs+='padding: 0px 1px 0px 1px;';
 		hs+='overflow: hidden;';
+		hs+='overflow-y: auto;';
 		this._dropdown_menu_text__text.setAttribute('style',hs);
 		this._dropdown_menu_text__text.innerHTML=me.ggUserdata.title;
 		this._dropdown_menu_text.appendChild(this._dropdown_menu_text__text);
